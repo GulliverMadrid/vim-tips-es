@@ -2,6 +2,8 @@
 
 # Tips para aprender Vim o Neovim en español
 
+El objetivo de estos tips es facilitar el aprendizaje de los editores de texto Vim o Neovim.
+
 ## Contribuye
 
 Si ves algún error o quieres hacer alguna sugerencia, puedes crear una `issue` en el repositorio.
